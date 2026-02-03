@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #2596be;
-  color: #2596be;
+  background-color: #000000;
+  color: #ffffff;
   font-family: 'Poppins', sans-serif;
   line-height: 1.6;
 }
@@ -98,4 +98,3 @@ footer {
   font-size: 0.8rem;
   border-top: 1px solid #222;
 }
-
